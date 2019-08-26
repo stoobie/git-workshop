@@ -1,4 +1,4 @@
-= Git owrkshop
+= Git workshop Simple
 :icons:
 :toc: macro
 :toc-title"
@@ -11,6 +11,10 @@ toc::[]
 This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make tyops.
 
 NOTE: Kevin might be late to this workshop. In that case, enjoy the lessons contained in this sample repository about how to write words good.
+
+== Woodstock
+
+Tweet tweet tweet.
 
 == Creating and handling merge conflicts
 

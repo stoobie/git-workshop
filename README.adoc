@@ -8,9 +8,12 @@ toc::[]
 
 == Introduction
 
-This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make tyops.
+This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make typos.
 
 NOTE: Kevin might be late to this workshop. In that case, enjoy the lessons contained in this sample repository about how to write words good.
+
+== Snoopy
+I doubt that anyone besides me would make a section named Snoopy.
 
 == Creating and handling merge conflicts
 
